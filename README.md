@@ -1,4 +1,4 @@
-<<Music Downloader>>
+Music Downloader
 
 Used for downloading music from online mp3 player link. Simply put in the link and press download. 
 
